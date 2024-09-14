@@ -1,6 +1,9 @@
 # AndroidJava01
 Creado por Raúl Ibarra.
 
+Para descargar el archivo de Android Studio, dirijace a la carpeta de Android, donde podra abrir el proyecto desde la misma
+plataforma.
+
 ¡¡Modo de Uso!!
 Al momento de entrar en la aplicacion, esta pedira que usted ingrese dos numeros, en un rango minimo como uno maximo.
 
